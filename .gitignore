@@ -57,6 +57,7 @@ target/
 *.iws
 *.iml
 *.ipr
+*.editorconfig
 
 ### NetBeans ###
 /nbproject/private/
@@ -73,3 +74,5 @@ build/
 #idea folder
 **/.idea/
 **/.mvn/
+**/mvnw
+**/mvnw.cmd
